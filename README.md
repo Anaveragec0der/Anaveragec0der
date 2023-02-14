@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anaveragec0der
+- 👋 Hi, I’m Priyanshu Vishwakarma
 - 👀 I’m interested in Web Development ,Datastructures & Problem Solving
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any Web Development related projects 
