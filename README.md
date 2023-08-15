@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br> MERN stack development <br>👯 I’m looking to collaborate on<br> projects based on MERN Stack<br>🤝 I’m looking for help with React.js<br>🌱 I’m currently learning React.js<br>💬 Ask me about Web Development <br>⚡ Fun fact every letter 'C' in the word <br>"Pacific Ocean" is pronounced differently 
+🔭 I’m currently working on<br> MERN stack development <br>👯 I’m looking to collaborate on<br> projects based on MERN Stack<br>🤝 I’m looking for help with Node.js<br>🌱 I’m currently learning Node.js<br>💬 Ask me about Web Development <br>⚡ Fun fact every letter 'C' in the word <br>"Pacific Ocean" is pronounced differently 
 
 
 ## 🌐 Socials:
